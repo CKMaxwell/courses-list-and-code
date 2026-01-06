@@ -16,7 +16,7 @@ for i = 1:length(new2)
     end
 end
 
-%處理過大聲的部分
+% normalization
 max_val = max(abs(output));
 if max_val > 1 
     output = output .*(1/max_val);

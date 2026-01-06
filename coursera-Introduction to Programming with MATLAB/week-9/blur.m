@@ -1,9 +1,9 @@
 function output = blur(img,w)
 [y,x] = size(img);
 output = uint8([]);
-for i = 1:x     %每一橫排像素都選到
-    for j =1:y  %每一直排像素都選到
-        %以下處理單一元素
+for i = 1:x     % go through column
+    for j =1:y  % go through row
+        % work on each element
         temp = [];
         count = 1;
         for ii = i-w:i+w
@@ -15,7 +15,7 @@ for i = 1:x     %每一橫排像素都選到
             end
         end
         output(j,i) = uint8(mean(temp));        
-        %完成一顆元素
+        % finish 1 element process
     end
 end
 
