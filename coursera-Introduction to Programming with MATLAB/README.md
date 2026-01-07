@@ -5,7 +5,7 @@
 - [Introduction to Programming with MATLAB](https://www.coursera.org/learn/matlab)
 
 ## 📖 Overview
-- [Week 1: Course Pages](week-1-course-pages) 
+- [Week 1: Course Pages](#week-1-course-pages) 
 - [Week 2: The MATLAB Environment](#week-2-the-matlab-environment) 
 - [Week 3: Matrices and Operators](#week-3-matrices-and-operators) 
 - [Week 4: Functions](#week-4-functions)
