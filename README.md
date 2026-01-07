@@ -11,5 +11,7 @@
 ### Courses
 + Introduction to Programming with MATLAB - Vanderbilt University (2020)[📜](https://coursera.org/share/8ec7f7414e0d9e084720640a77140365)
 
+## Linkedin
++ [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) (2023)[📜](https://www.linkedin.com/learning/certificates/3e35df114c8b00a3fce360bc6fd55fb870b3bb5a69baba5aeedf0226c3fc73e9)
 ## HackerRank
 - Python (Basic) [📜](https://www.hackerrank.com/certificates/a37c5e86d8e8)
